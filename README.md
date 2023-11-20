@@ -26,11 +26,12 @@ Languages and Tools:
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png?raw=true" alt="kotlin"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png?raw=true" alt="android-studio"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" alt="git"></code>
+<!-- https://github.com/github/explore/blob/main/topics/git/git.png?raw=true -->
 
 - ⚡ Java / Kotlin.
 - 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates)
-- 🌱 I’m currently learning Jetpack Kotlin
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Jetpack | Kotlin
 - 🏃 Sailing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 

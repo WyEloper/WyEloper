@@ -35,7 +35,7 @@ Languages and Tools:
 - 🏃 Sailing / Table Tennis / Cycling
 - 📫 Email me at: WyEloper@gmail.com
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=WyEloper)]()
+<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=WyEloper)]()    --> 
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=WyEloper&show_icons=true&include_all_commits=true)](https://github.com/WyEloper/github-readme-stats)   -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyEloper&layout=compact)](https://github.com/WyEloper/github-readme-stats)   -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WyEloper&repo=WyEloper)   -->

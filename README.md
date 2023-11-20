@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 - ⚡ Java / Kotlin.
 - 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
+- 🌱 I’m currently learning Jetpack Kotlin
+- 🏃 Sailing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 

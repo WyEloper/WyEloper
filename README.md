@@ -32,7 +32,7 @@ Languages and Tools:
 - 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates)
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack | Kotlin
-- 🏃 Sailing / Table Tennis / Cycling
+- 🏃 Badminton / Table Tennis / Cycling
 - 📫 Email me at: WyEloper@gmail.com
 
 <!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=WyEloper)]()    --> 

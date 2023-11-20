@@ -33,8 +33,7 @@ Languages and Tools:
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack | Kotlin
 - 🏃 Sailing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
+- 📫 Email me at: WyEloper@gmail.com
 
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=WyEloper&show_icons=true&include_all_commits=true)](https://github.com/WyEloper/github-readme-stats)   -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyEloper&layout=compact)](https://github.com/WyEloper/github-readme-stats)   -->

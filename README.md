@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:    
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/android/android.png?raw=true" alt="android"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png?raw=true" alt="android-studio"></code>

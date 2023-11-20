@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 ### Yoo, I'm WyEloper 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/WyEloper)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=WyEloper&show_icons=true&include_all_commits=true)](https://github.com/WyEloper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyEloper&layout=compact)](https://github.com/WyEloper/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WyEloper&repo=WyEloper)
+
+
 
 - ⚡ Java / Kotlin.
 - 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates)

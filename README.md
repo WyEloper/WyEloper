@@ -29,11 +29,12 @@ Languages and Tools:
 <!-- https://github.com/github/explore/blob/main/topics/git/git.png?raw=true -->
 
 - ⚡ Java / Kotlin.
-- 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates)
+- 🖋 Writer at [sspai](https://sspai.com/u/hvvlsjqb/updates) / [CSDN](https://blog.csdn.net/Stunner_W?type=blog) 
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack | Kotlin
 - 🏃 Badminton / Table Tennis / Cycling
 - 📫 Email me at: WyEloper@gmail.com
+- ✍️ Talking is cheap, show me the code
 
 <!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=WyEloper)]()    --> 
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=WyEloper&show_icons=true&include_all_commits=true)](https://github.com/WyEloper/github-readme-stats)   -->

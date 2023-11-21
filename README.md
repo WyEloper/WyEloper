@@ -31,7 +31,7 @@ Languages and Tools:
 - ⚡ Java / Kotlin.
 - 🖋 Writer at [SSPai](https://sspai.com/u/hvvlsjqb/updates) / [CSDN](https://blog.csdn.net/Stunner_W?type=blog) 
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Jetpack | Kotlin
+- 🌱 I’m currently learning Jetpack / Kotlin
 - 🏃 Badminton / Table Tennis / Cycling
 - 📫 Email me at: WyEloper@gmail.com
 - ✍️ Talking is cheap, show me the code
